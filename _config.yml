@@ -3,16 +3,16 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            BlackDoc
+title:            The Warcraft
 tagline:          Black Theme for Jekyll
 description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
-url:              https://github.com/karloespiritu/BlackDoc/
-baseurl:          "/BlackDoc/"
+url:              https://thewarcraft.github.io
+baseurl:          "/"
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
 
 author:
-  name:           Karlo Espiritu
+  name:           TheNightmarealm
   url:            https://twitter.com/karloespiritu
 
 paginate:         5
